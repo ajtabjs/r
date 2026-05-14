@@ -31,7 +31,7 @@
       <xhtml:body>
         <div class="api-trigger">
           <ol class="api-messages">
-            <li class="api-prompt">:hover me &amp;<br><b>CSS reveals your IP</b><br>(no JS)</li>
+            <li class="api-prompt">:hover me <br/><b>CSS reveals your IP</b><br/>(no JS)</li>
             <li class="api-in-progress">Loading IP via CSS...</li>
             <li class="api-continue">Continue hovering...</li>
             <li class="api-complete" data-bin-bits="decode-ip-address a b c d e f"></li>
